@@ -1,0 +1,31 @@
+img {
+    width: 100px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 30px;
+  }
+  h1 {
+    color:darkcyan;
+    font-weight: bold;
+    text-shadow: 3px 3px 1px gray;
+  }
+
+  h2 {
+    color: darkcyan;
+    font-weight: bold;
+  }
+  p,ol {
+    color: cadetblue;
+    font-weight: bold;
+  }
+  li:hover{
+    color:lightseagreen
+
+   }
+
+  
+
+  html {
+    background-color:aliceblue;
+  }
+  
